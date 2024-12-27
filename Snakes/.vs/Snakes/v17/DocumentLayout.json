@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75DCECA4-3BE3-4F12-9C32-D427C44F1B70}|Snakes\\Snakes.vcxproj|C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\UI\\MainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75DCECA4-3BE3-4F12-9C32-D427C44F1B70}|Snakes\\Snakes.vcxproj|solutionrelative:Snakes\\UI\\MainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DCECA4-3BE3-4F12-9C32-D427C44F1B70}|Snakes\\Snakes.vcxproj|C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\UI\\MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75DCECA4-3BE3-4F12-9C32-D427C44F1B70}|Snakes\\Snakes.vcxproj|solutionrelative:Snakes\\UI\\MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DCECA4-3BE3-4F12-9C32-D427C44F1B70}|Snakes\\Snakes.vcxproj|C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\Snakes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75DCECA4-3BE3-4F12-9C32-D427C44F1B70}|Snakes\\Snakes.vcxproj|solutionrelative:Snakes\\Snakes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DCECA4-3BE3-4F12-9C32-D427C44F1B70}|Snakes\\Snakes.vcxproj|C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\UI\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75DCECA4-3BE3-4F12-9C32-D427C44F1B70}|Snakes\\Snakes.vcxproj|solutionrelative:Snakes\\UI\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DCECA4-3BE3-4F12-9C32-D427C44F1B70}|Snakes\\Snakes.vcxproj|C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\UI\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75DCECA4-3BE3-4F12-9C32-D427C44F1B70}|Snakes\\Snakes.vcxproj|solutionrelative:Snakes\\UI\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DCECA4-3BE3-4F12-9C32-D427C44F1B70}|Snakes\\Snakes.vcxproj|C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\SnakeGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75DCECA4-3BE3-4F12-9C32-D427C44F1B70}|Snakes\\Snakes.vcxproj|solutionrelative:Snakes\\SnakeGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 356,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Button.cpp",
+              "DocumentMoniker": "C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\UI\\Button.cpp",
+              "RelativeDocumentMoniker": "Snakes\\UI\\Button.cpp",
+              "ToolTip": "C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\UI\\Button.cpp",
+              "RelativeToolTip": "Snakes\\UI\\Button.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T19:00:49.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Button.h",
+              "DocumentMoniker": "C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\UI\\Button.h",
+              "RelativeDocumentMoniker": "Snakes\\UI\\Button.h",
+              "ToolTip": "C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\UI\\Button.h",
+              "RelativeToolTip": "Snakes\\UI\\Button.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-27T19:00:43.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SnakeGame.h",
+              "DocumentMoniker": "C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\SnakeGame.h",
+              "RelativeDocumentMoniker": "Snakes\\SnakeGame.h",
+              "ToolTip": "C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\SnakeGame.h",
+              "RelativeToolTip": "Snakes\\SnakeGame.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-27T18:20:14.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snakes.cpp",
+              "DocumentMoniker": "C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\Snakes.cpp",
+              "RelativeDocumentMoniker": "Snakes\\Snakes.cpp",
+              "ToolTip": "C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\Snakes.cpp",
+              "RelativeToolTip": "Snakes\\Snakes.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T18:04:01.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\UI\\MainMenu.cpp",
+              "RelativeDocumentMoniker": "Snakes\\UI\\MainMenu.cpp",
+              "ToolTip": "C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\UI\\MainMenu.cpp",
+              "RelativeToolTip": "Snakes\\UI\\MainMenu.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T18:12:42.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.h",
+              "DocumentMoniker": "C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\UI\\MainMenu.h",
+              "RelativeDocumentMoniker": "Snakes\\UI\\MainMenu.h",
+              "ToolTip": "C:\\Users\\vd.bora\\Documents\\GitHub\\Snakes\\Snakes\\Snakes\\UI\\MainMenu.h",
+              "RelativeToolTip": "Snakes\\UI\\MainMenu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-27T18:12:30.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

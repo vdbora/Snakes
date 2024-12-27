@@ -1,0 +1,303 @@
+﻿  Snakes.cpp
+  MainMenu.cpp
+  Generating Code...
+  Snakes.vcxproj -> C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\x64\Debug\Snakes.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  Set-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:12 char:5
+  +     Set-Content -Path $copiedFilesLog -Value "" -Encoding UTF8
+  +     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Set-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.SetContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\vcpkg.applocal.log'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:61 char:32
+  + ... FilesLog) { Add-Content $copiedFilesLog $targetBinaryFilePath -Encodi ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...kg.applocal.log:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
+  Add-Content : Could not find file 
+  'C:\Users\vd.bora\Documents\GitHub\Snakes\Snakes\Snakes\x64\Debug\Snakes.tlog\Snakes.write.1u.tlog'.
+  At C:\Users\vd.bora\Documents\vcpkg-master\vcpkg-master\scripts\buildsystems\msbuild\applocal.ps1:62 char:26
+  + ... tlogFile) { Add-Content $tlogFile $targetBinaryFilePath -Encoding Uni ...
+  +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (C:\Users\vd.bor...s.write.1u.tlog:String) [Add-Content], FileNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : GetContentWriterFileNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+   
